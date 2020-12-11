@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1544431557 source:d:\9v_1_1\Подпрограми\main.cpp
+	<iostream>
+
+1546467506 source:h:\c++ 9\Подпрограми смятащи с n\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1547453268 source:e:\c++ 9\Подпрограми смятащи с n\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1547854431 source:d:\programming\projects\c++ 9\Подпрограми смятащи с n\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<math.h>
+

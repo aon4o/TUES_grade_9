@@ -1,0 +1,8 @@
+1. 1-N
+2. N!
+3. Broqt na cifrite v N  
+4. Simata na cifrite v N  
+5. Dali A se sreshta v N
+6. Kolko pyti se sreshta A v N
+7. Piramidka
+8. exit
